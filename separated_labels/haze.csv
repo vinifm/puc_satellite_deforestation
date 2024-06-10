@@ -1,0 +1,2697 @@
+train_0,haze primary
+train_5,haze primary water
+train_7,haze primary
+train_43,bare_ground haze
+train_60,haze primary
+train_104,haze primary
+train_132,haze primary
+train_133,haze primary
+train_136,haze primary
+train_152,haze primary
+train_180,haze primary
+train_196,haze primary
+train_215,haze primary water
+train_228,agriculture haze primary road water
+train_241,agriculture haze primary road
+train_248,haze primary
+train_315,agriculture haze primary road
+train_325,haze primary
+train_332,haze primary
+train_341,haze primary
+train_351,agriculture haze primary road
+train_360,haze primary
+train_363,haze primary water
+train_367,haze primary
+train_388,agriculture haze primary
+train_406,agriculture haze primary water
+train_414,haze primary
+train_417,haze primary
+train_426,haze primary water
+train_432,haze primary
+train_454,haze primary water
+train_458,haze primary
+train_460,haze primary
+train_504,haze primary water
+train_518,agriculture haze primary road water
+train_554,haze primary
+train_562,agriculture haze primary
+train_581,haze primary water
+train_625,haze primary
+train_654,haze primary
+train_661,agriculture haze primary
+train_688,agriculture haze primary road
+train_690,agriculture haze primary road
+train_704,haze primary
+train_740,haze primary water
+train_775,haze primary
+train_800,agriculture haze primary
+train_807,haze primary
+train_849,habitation haze primary road
+train_879,agriculture haze primary
+train_885,cultivation haze primary
+train_920,haze primary
+train_963,haze primary
+train_965,haze primary
+train_968,haze primary
+train_987,agriculture haze primary
+train_989,haze primary water
+train_1022,haze primary
+train_1053,haze primary
+train_1104,cultivation haze primary
+train_1113,haze primary
+train_1121,haze primary
+train_1147,haze primary
+train_1149,haze primary
+train_1153,haze primary
+train_1161,haze primary
+train_1184,agriculture haze primary water
+train_1229,agriculture haze primary road water
+train_1230,agriculture haze primary
+train_1232,haze primary
+train_1236,haze primary
+train_1268,haze primary
+train_1298,agriculture haze primary
+train_1313,haze primary
+train_1315,haze primary
+train_1320,agriculture haze primary water
+train_1321,haze primary
+train_1363,haze primary road
+train_1384,agriculture haze primary water
+train_1389,haze primary road water
+train_1396,haze primary
+train_1410,haze primary
+train_1454,haze primary
+train_1456,agriculture haze
+train_1471,haze primary
+train_1496,haze primary
+train_1507,agriculture haze primary
+train_1516,agriculture habitation haze primary road
+train_1546,agriculture haze primary road
+train_1558,agriculture haze primary
+train_1559,agriculture cultivation haze primary
+train_1562,haze primary
+train_1571,haze primary
+train_1585,haze primary
+train_1592,cultivation haze primary
+train_1594,agriculture habitation haze primary road
+train_1596,haze primary water
+train_1604,haze primary
+train_1639,haze primary road
+train_1642,haze primary
+train_1646,agriculture haze primary water
+train_1680,haze primary
+train_1703,haze primary
+train_1729,haze primary
+train_1736,agriculture haze primary water
+train_1739,haze primary
+train_1748,haze primary
+train_1757,haze primary
+train_1758,haze primary
+train_1764,agriculture cultivation haze primary
+train_1798,haze primary road
+train_1801,agriculture haze primary road
+train_1804,agriculture cultivation haze primary
+train_1821,haze primary
+train_1840,agriculture cultivation haze primary road water
+train_1854,haze primary road water
+train_1872,haze primary
+train_1874,agriculture cultivation haze primary
+train_1880,haze primary
+train_1905,haze primary water
+train_1962,agriculture haze primary water
+train_1971,agriculture cultivation habitation haze primary road
+train_1991,haze primary
+train_1995,habitation haze primary
+train_2000,haze primary
+train_2002,haze primary
+train_2007,agriculture haze primary road
+train_2015,haze primary
+train_2023,haze primary
+train_2030,haze primary
+train_2057,haze primary
+train_2081,haze primary water
+train_2084,agriculture cultivation cultivation haze primary road
+train_2096,agriculture haze primary road
+train_2098,haze primary
+train_2101,haze primary
+train_2126,haze primary
+train_2136,haze primary
+train_2161,agriculture haze primary
+train_2172,haze primary road water
+train_2178,haze primary water
+train_2180,haze primary
+train_2187,haze primary
+train_2188,haze primary water
+train_2198,haze primary
+train_2200,haze primary
+train_2205,haze primary
+train_2235,haze primary
+train_2254,agriculture cultivation haze primary road
+train_2256,haze primary road selective_logging
+train_2308,haze primary
+train_2318,agriculture haze primary road
+train_2326,haze primary
+train_2327,haze primary water
+train_2346,haze primary road
+train_2358,haze primary
+train_2365,haze primary
+train_2395,agriculture haze primary water
+train_2400,agriculture haze primary
+train_2437,haze primary water
+train_2439,haze primary
+train_2440,agriculture habitation haze primary
+train_2453,haze primary
+train_2458,haze primary
+train_2470,agriculture habitation haze primary
+train_2482,haze primary
+train_2519,haze primary
+train_2526,agriculture haze primary
+train_2594,haze primary
+train_2595,agriculture haze primary water
+train_2598,haze primary
+train_2618,haze primary
+train_2635,haze primary water
+train_2641,haze primary
+train_2666,haze primary
+train_2669,agriculture haze primary road
+train_2671,agriculture haze primary road
+train_2676,haze primary
+train_2682,agriculture haze primary
+train_2687,haze primary water
+train_2696,haze primary
+train_2700,haze primary
+train_2731,agriculture haze primary water
+train_2732,agriculture bare_ground cultivation haze primary water
+train_2735,haze primary
+train_2779,haze primary
+train_2802,haze primary
+train_2814,agriculture haze primary road
+train_2818,agriculture haze primary road water
+train_2842,haze primary
+train_2855,haze primary
+train_2864,haze primary
+train_2866,haze primary
+train_2891,haze primary water
+train_2903,haze primary road
+train_2908,haze primary
+train_2916,haze primary
+train_2933,haze primary
+train_2953,haze primary
+train_2970,agriculture cultivation haze primary water
+train_2979,haze primary
+train_3007,haze primary water
+train_3043,haze primary
+train_3066,agriculture haze primary water
+train_3071,haze primary
+train_3077,haze primary
+train_3090,haze primary
+train_3113,agriculture cultivation haze primary road water
+train_3129,haze primary
+train_3146,haze primary
+train_3168,haze primary
+train_3171,haze primary
+train_3179,haze primary
+train_3207,haze primary
+train_3208,haze primary
+train_3216,haze primary
+train_3223,haze primary
+train_3228,habitation haze primary water
+train_3229,haze primary
+train_3232,agriculture cultivation haze primary
+train_3235,agriculture haze road
+train_3240,haze primary
+train_3250,agriculture haze primary water
+train_3258,haze primary
+train_3259,haze primary
+train_3263,haze primary
+train_3265,haze primary
+train_3266,haze primary
+train_3268,agriculture haze primary
+train_3270,haze primary
+train_3279,haze primary water
+train_3305,haze primary
+train_3316,haze primary
+train_3321,haze primary
+train_3333,haze primary
+train_3344,haze primary
+train_3365,haze primary
+train_3379,haze primary
+train_3390,agriculture haze primary
+train_3394,haze primary
+train_3397,haze primary
+train_3398,haze primary
+train_3401,haze primary
+train_3413,haze primary
+train_3423,haze primary
+train_3424,haze primary water
+train_3440,agriculture cultivation haze primary
+train_3445,agriculture haze water
+train_3452,haze primary
+train_3461,cultivation haze primary
+train_3463,agriculture haze road
+train_3481,agriculture haze primary road
+train_3501,habitation haze primary water
+train_3515,cultivation haze primary
+train_3521,haze primary
+train_3532,agriculture habitation haze primary road
+train_3534,haze primary
+train_3543,agriculture haze primary water
+train_3561,haze water
+train_3564,agriculture haze primary
+train_3569,haze primary
+train_3575,haze primary water
+train_3577,haze primary
+train_3610,haze primary
+train_3630,haze primary
+train_3639,haze primary road water
+train_3669,haze primary
+train_3673,agriculture habitation haze primary water
+train_3678,agriculture habitation haze primary road
+train_3680,haze primary
+train_3687,haze primary
+train_3688,agriculture cultivation haze primary
+train_3696,haze primary
+train_3701,haze primary water
+train_3707,haze primary
+train_3708,haze primary
+train_3715,agriculture cultivation haze primary road
+train_3717,agriculture haze primary
+train_3720,haze primary water
+train_3740,haze primary
+train_3747,haze primary
+train_3749,agriculture habitation haze primary road
+train_3769,haze primary
+train_3794,agriculture haze primary road water
+train_3799,haze primary
+train_3812,agriculture haze primary road
+train_3813,haze primary
+train_3911,haze primary
+train_3917,haze primary
+train_3931,agriculture haze primary road water
+train_3941,haze primary
+train_3942,haze primary
+train_3949,haze primary road water
+train_3954,agriculture habitation haze primary road
+train_3965,haze primary water
+train_3969,agriculture cultivation haze primary water
+train_4005,haze primary water
+train_4018,haze primary
+train_4058,agriculture haze primary
+train_4059,agriculture haze primary road
+train_4060,haze primary
+train_4072,haze primary
+train_4075,haze primary water
+train_4085,agriculture haze primary water
+train_4152,haze primary water
+train_4155,haze primary
+train_4173,haze primary
+train_4177,haze primary water
+train_4178,haze primary water
+train_4186,haze primary water
+train_4255,agriculture haze primary road
+train_4269,agriculture cultivation haze primary
+train_4271,habitation haze primary road
+train_4276,haze primary
+train_4281,haze primary road water
+train_4296,haze primary
+train_4347,agriculture haze primary
+train_4373,haze primary water
+train_4377,agriculture haze primary
+train_4381,haze primary
+train_4399,agriculture haze primary water
+train_4405,haze primary
+train_4409,haze primary
+train_4431,agriculture haze primary
+train_4437,agriculture haze primary road
+train_4457,haze primary
+train_4480,haze primary
+train_4484,haze primary
+train_4490,haze primary
+train_4496,haze primary
+train_4507,haze primary
+train_4576,agriculture haze primary road water
+train_4585,haze primary
+train_4609,agriculture haze primary road
+train_4615,haze primary
+train_4624,haze primary water
+train_4633,haze primary
+train_4688,haze primary
+train_4715,agriculture haze primary
+train_4728,bare_ground haze primary water
+train_4729,haze primary
+train_4733,haze primary
+train_4740,cultivation habitation haze primary
+train_4746,haze primary
+train_4767,haze primary
+train_4792,agriculture haze primary
+train_4800,agriculture haze primary road
+train_4803,haze primary
+train_4824,haze primary
+train_4827,haze primary water
+train_4828,habitation haze primary road
+train_4870,haze primary
+train_4875,haze primary
+train_4906,agriculture haze primary road
+train_4910,haze primary
+train_4960,haze primary water
+train_4969,agriculture cultivation haze primary road water
+train_4973,haze primary
+train_4981,agriculture cultivation haze primary
+train_5009,agriculture cultivation haze primary
+train_5040,haze primary water
+train_5053,haze primary
+train_5071,haze primary
+train_5082,agriculture haze primary
+train_5088,agriculture haze primary
+train_5102,agriculture haze
+train_5153,cultivation haze primary
+train_5174,agriculture cultivation haze primary road water
+train_5178,artisinal_mine haze primary
+train_5181,haze primary
+train_5226,haze primary road
+train_5228,haze primary water
+train_5245,agriculture cultivation habitation haze primary road
+train_5271,haze primary
+train_5272,haze primary water
+train_5276,haze primary road water
+train_5280,haze primary
+train_5300,haze primary
+train_5302,haze primary road
+train_5306,haze primary
+train_5371,haze primary
+train_5402,agriculture haze primary
+train_5419,haze primary
+train_5420,haze primary water
+train_5424,haze primary road water
+train_5427,haze primary
+train_5431,haze primary
+train_5432,agriculture cultivation haze primary water
+train_5456,haze primary
+train_5477,haze primary
+train_5490,agriculture haze primary
+train_5534,agriculture haze primary road
+train_5538,haze primary
+train_5585,haze primary
+train_5609,agriculture cultivation haze primary
+train_5612,agriculture haze primary road water
+train_5629,haze primary
+train_5649,haze primary
+train_5659,haze primary
+train_5665,haze primary water
+train_5698,haze primary water
+train_5709,haze primary water
+train_5711,haze primary
+train_5772,haze primary
+train_5774,haze primary
+train_5788,haze primary
+train_5792,haze primary
+train_5801,haze primary
+train_5807,haze primary
+train_5826,agriculture haze primary road water
+train_5847,haze primary
+train_5858,haze primary water
+train_5865,conventional_mine haze primary
+train_5891,haze primary
+train_5930,agriculture haze primary
+train_5939,cultivation haze primary
+train_5947,haze primary road water
+train_5972,haze primary
+train_5977,agriculture haze primary
+train_5990,agriculture haze primary water
+train_6001,agriculture haze primary
+train_6027,agriculture haze primary road water
+train_6034,agriculture haze primary road water
+train_6046,agriculture haze primary road
+train_6050,haze primary
+train_6085,haze primary
+train_6102,agriculture cultivation haze primary
+train_6125,haze primary water
+train_6133,habitation haze primary road
+train_6139,haze primary
+train_6149,bare_ground cultivation haze primary
+train_6163,agriculture haze primary
+train_6180,haze primary
+train_6185,haze primary water
+train_6205,haze primary
+train_6215,haze primary
+train_6238,haze primary
+train_6239,haze primary
+train_6244,haze primary water
+train_6280,haze primary
+train_6288,haze primary
+train_6361,haze primary
+train_6376,haze primary
+train_6377,haze primary
+train_6408,agriculture haze primary water
+train_6412,agriculture cultivation habitation haze primary
+train_6427,agriculture haze primary road water
+train_6441,haze primary
+train_6443,haze primary water
+train_6449,haze primary
+train_6450,agriculture cultivation haze primary
+train_6468,cultivation haze primary
+train_6470,haze primary
+train_6490,agriculture haze primary
+train_6521,haze primary
+train_6526,habitation haze primary slash_burn
+train_6534,agriculture haze primary
+train_6535,agriculture haze primary
+train_6543,haze primary
+train_6567,haze primary
+train_6571,haze primary water
+train_6577,haze primary
+train_6585,haze primary
+train_6589,haze primary
+train_6652,haze primary
+train_6662,haze primary
+train_6675,haze primary
+train_6680,haze primary road water
+train_6687,haze primary
+train_6705,haze primary
+train_6738,habitation haze primary road water
+train_6740,haze primary
+train_6747,haze primary water
+train_6755,agriculture haze primary road
+train_6792,agriculture cultivation cultivation haze primary road
+train_6798,haze primary
+train_6814,haze primary
+train_6820,agriculture cultivation haze primary water
+train_6823,haze primary
+train_6835,agriculture bare_ground haze
+train_6840,haze primary
+train_6900,haze primary
+train_6914,agriculture habitation haze primary road
+train_6915,haze primary
+train_6929,agriculture haze primary water
+train_6937,haze primary
+train_6942,haze primary road
+train_6950,agriculture haze primary road
+train_6965,agriculture haze primary
+train_6968,agriculture bare_ground haze primary road
+train_6974,haze primary
+train_6984,haze primary
+train_6990,haze primary water
+train_6998,haze primary
+train_7009,haze primary
+train_7044,haze primary
+train_7098,haze primary
+train_7109,haze primary
+train_7115,haze primary
+train_7129,haze primary
+train_7135,haze primary
+train_7139,haze primary
+train_7146,agriculture haze primary road
+train_7159,haze primary
+train_7160,haze primary
+train_7164,haze primary
+train_7177,haze primary
+train_7200,haze primary
+train_7203,haze primary water
+train_7237,haze primary road
+train_7246,agriculture haze primary water
+train_7263,haze primary
+train_7274,habitation haze primary road water
+train_7311,agriculture cultivation haze primary
+train_7324,haze primary
+train_7373,haze primary
+train_7407,haze primary
+train_7410,haze primary
+train_7413,haze primary
+train_7426,haze primary
+train_7452,haze primary
+train_7464,haze primary
+train_7534,haze primary
+train_7554,haze primary
+train_7580,haze primary
+train_7593,agriculture haze primary water
+train_7602,haze primary
+train_7603,bare_ground haze primary water
+train_7620,haze primary
+train_7622,haze primary road water
+train_7626,haze primary
+train_7650,haze primary
+train_7652,agriculture haze primary
+train_7724,haze primary
+train_7731,haze primary water
+train_7806,haze primary
+train_7818,agriculture habitation haze primary road
+train_7831,agriculture haze primary road
+train_7848,agriculture cultivation habitation haze primary road
+train_7870,haze primary water
+train_7873,bare_ground haze primary
+train_7877,haze primary road
+train_7911,haze primary
+train_7919,haze primary water
+train_7933,cultivation haze primary
+train_7977,haze primary water
+train_7989,agriculture haze primary water
+train_8009,cultivation haze primary
+train_8016,habitation haze primary water
+train_8020,haze primary
+train_8075,haze primary
+train_8088,agriculture cultivation haze primary
+train_8106,haze primary
+train_8127,haze primary
+train_8149,agriculture haze primary water
+train_8150,agriculture haze primary
+train_8183,haze primary water
+train_8184,haze primary
+train_8188,haze primary
+train_8190,haze primary
+train_8204,haze primary
+train_8206,haze primary
+train_8211,haze primary
+train_8214,haze primary
+train_8226,agriculture haze primary road
+train_8234,agriculture haze primary
+train_8241,haze primary water
+train_8242,haze primary
+train_8249,haze primary
+train_8265,agriculture haze primary
+train_8272,haze primary
+train_8322,haze primary
+train_8361,haze primary
+train_8379,haze primary
+train_8414,agriculture haze primary
+train_8429,haze primary
+train_8457,haze primary
+train_8514,haze primary
+train_8517,haze primary
+train_8547,agriculture haze primary water
+train_8598,haze primary
+train_8629,haze primary
+train_8647,haze primary
+train_8653,haze primary
+train_8661,bare_ground haze primary water
+train_8687,haze primary
+train_8703,haze primary water
+train_8738,haze primary
+train_8748,haze primary
+train_8784,habitation haze primary road
+train_8787,haze primary
+train_8835,haze primary road
+train_8837,haze primary water
+train_8853,haze primary
+train_8854,agriculture haze primary road water
+train_8864,haze primary
+train_8888,haze primary
+train_8894,haze primary
+train_8895,haze primary
+train_8902,haze primary water
+train_8913,agriculture haze primary water
+train_8938,agriculture haze primary
+train_8969,haze primary
+train_8999,haze primary
+train_9029,agriculture haze primary
+train_9035,haze primary
+train_9037,haze primary
+train_9060,haze primary
+train_9080,haze primary
+train_9095,agriculture haze primary road
+train_9097,haze primary
+train_9103,agriculture haze primary
+train_9104,haze primary
+train_9115,haze primary water
+train_9122,agriculture haze primary road
+train_9123,haze primary water
+train_9140,haze primary
+train_9174,haze primary
+train_9183,haze primary
+train_9184,haze primary
+train_9201,agriculture haze primary road
+train_9206,haze primary
+train_9222,haze primary water
+train_9236,bare_ground habitation haze primary road
+train_9269,agriculture haze primary water
+train_9273,haze primary
+train_9292,haze primary
+train_9294,haze primary water
+train_9316,haze primary
+train_9323,haze primary
+train_9328,haze primary
+train_9382,agriculture haze primary road
+train_9408,haze primary water
+train_9417,haze primary road
+train_9420,haze primary
+train_9426,haze primary
+train_9448,haze primary
+train_9459,haze primary water
+train_9472,agriculture haze primary road
+train_9480,haze primary
+train_9490,agriculture cultivation haze primary road
+train_9496,haze primary
+train_9514,haze primary water
+train_9518,haze primary road water
+train_9527,haze primary
+train_9558,haze primary
+train_9569,haze primary
+train_9595,haze primary water
+train_9633,haze primary
+train_9654,agriculture haze primary road water
+train_9667,agriculture haze primary water
+train_9669,haze primary water
+train_9670,habitation haze primary road
+train_9687,haze primary
+train_9714,haze primary road water
+train_9726,haze primary
+train_9729,haze primary
+train_9736,agriculture habitation haze primary road
+train_9738,haze primary
+train_9745,haze primary
+train_9817,haze primary
+train_9842,haze primary road
+train_9866,haze primary
+train_9900,cultivation haze primary
+train_9910,haze primary
+train_9915,agriculture haze primary
+train_9930,haze primary water
+train_9944,haze primary
+train_9978,haze primary water
+train_9996,haze primary
+train_10025,haze primary water
+train_10034,haze primary
+train_10041,haze primary
+train_10057,agriculture haze primary
+train_10089,agriculture haze primary road
+train_10093,haze primary
+train_10111,haze primary
+train_10116,haze primary
+train_10125,haze primary
+train_10153,agriculture haze primary road
+train_10164,haze primary
+train_10188,haze primary
+train_10233,haze primary
+train_10234,haze primary
+train_10236,agriculture haze primary
+train_10257,agriculture haze primary water
+train_10260,haze primary water
+train_10274,haze primary
+train_10277,agriculture cultivation haze primary
+train_10281,haze primary water
+train_10312,agriculture haze primary water
+train_10354,haze primary
+train_10375,haze primary
+train_10382,haze primary
+train_10392,haze primary water
+train_10399,haze primary
+train_10441,haze primary
+train_10449,haze primary
+train_10462,haze primary road water
+train_10474,bare_ground haze primary water
+train_10512,haze primary
+train_10522,haze primary
+train_10573,haze primary
+train_10579,agriculture haze primary
+train_10590,habitation haze primary road
+train_10600,agriculture haze primary
+train_10646,haze primary
+train_10653,agriculture haze primary road selective_logging
+train_10659,haze primary
+train_10664,haze primary
+train_10669,agriculture haze primary
+train_10692,haze primary
+train_10718,haze primary water
+train_10721,agriculture haze primary
+train_10728,haze primary water
+train_10748,haze primary
+train_10753,haze primary road water
+train_10758,haze primary water
+train_10767,agriculture cultivation habitation haze primary road
+train_10775,agriculture haze primary road water
+train_10784,agriculture haze primary
+train_10796,haze primary
+train_10834,haze primary
+train_10871,haze primary
+train_10911,haze primary
+train_10915,agriculture cultivation haze primary
+train_10944,haze primary
+train_10946,agriculture haze primary
+train_10951,haze primary
+train_11007,haze primary
+train_11024,haze primary
+train_11026,haze primary
+train_11038,haze primary water
+train_11039,haze primary
+train_11058,haze primary
+train_11087,haze primary
+train_11090,agriculture haze primary water
+train_11128,haze primary water
+train_11136,haze primary
+train_11137,haze primary
+train_11148,agriculture haze primary water
+train_11156,haze primary
+train_11164,haze primary
+train_11188,haze primary
+train_11219,haze primary
+train_11221,haze primary
+train_11225,haze primary water
+train_11233,haze primary
+train_11236,agriculture cultivation haze primary
+train_11242,haze primary water
+train_11256,haze primary
+train_11272,agriculture habitation haze primary
+train_11296,haze primary
+train_11311,haze primary
+train_11322,agriculture haze primary water
+train_11329,haze primary water
+train_11330,haze primary water
+train_11335,agriculture haze primary road
+train_11338,haze primary
+train_11341,haze primary
+train_11342,haze primary
+train_11346,agriculture haze primary water
+train_11363,agriculture haze primary road
+train_11368,agriculture haze primary road water
+train_11389,haze primary water
+train_11409,haze primary
+train_11414,haze primary water
+train_11459,agriculture haze primary water
+train_11505,haze primary
+train_11538,haze primary
+train_11621,haze primary
+train_11647,haze primary
+train_11650,haze primary
+train_11654,haze primary
+train_11674,cultivation haze primary
+train_11736,haze primary
+train_11765,agriculture haze primary water
+train_11770,agriculture haze primary road
+train_11815,agriculture bare_ground haze primary road
+train_11857,haze primary
+train_11874,haze primary water
+train_11882,agriculture haze primary
+train_11886,haze primary
+train_11888,haze primary
+train_11914,haze primary
+train_11917,cultivation haze primary water
+train_11947,haze primary
+train_11961,haze primary
+train_11983,haze primary
+train_11998,haze primary
+train_12002,agriculture cultivation haze primary
+train_12003,agriculture haze primary road water
+train_12014,haze primary
+train_12074,haze primary
+train_12092,haze primary
+train_12095,cultivation habitation haze primary water
+train_12098,haze primary
+train_12100,haze primary
+train_12105,haze primary
+train_12114,agriculture haze primary
+train_12123,haze primary
+train_12136,agriculture haze primary
+train_12149,agriculture haze primary
+train_12190,haze primary
+train_12203,haze primary water
+train_12213,haze primary
+train_12218,haze primary
+train_12237,haze primary road
+train_12256,haze primary
+train_12285,haze primary
+train_12290,haze primary blooming
+train_12294,haze primary road water
+train_12300,haze primary water
+train_12306,haze primary
+train_12323,haze primary
+train_12325,haze primary
+train_12337,haze primary
+train_12339,haze primary
+train_12340,haze primary
+train_12367,haze primary
+train_12370,haze primary
+train_12378,agriculture haze primary
+train_12400,haze primary
+train_12416,haze primary
+train_12420,haze primary
+train_12432,agriculture cultivation haze primary
+train_12451,agriculture cultivation haze primary water
+train_12452,agriculture haze primary water
+train_12456,haze primary
+train_12469,haze primary
+train_12508,haze primary
+train_12511,haze primary water
+train_12556,agriculture haze primary water
+train_12577,agriculture haze primary road
+train_12609,haze primary
+train_12633,agriculture haze primary water
+train_12653,haze primary
+train_12664,haze primary
+train_12677,agriculture haze primary road
+train_12684,haze primary
+train_12688,haze primary
+train_12711,haze primary
+train_12730,haze primary
+train_12738,haze primary
+train_12781,cultivation haze primary
+train_12799,haze primary
+train_12804,haze primary
+train_12811,agriculture haze primary
+train_12816,haze primary water
+train_12828,haze primary
+train_12874,haze primary
+train_12896,agriculture haze primary
+train_12912,haze primary
+train_12918,haze primary water
+train_12945,haze primary
+train_12948,agriculture haze primary
+train_12988,haze primary
+train_13001,haze primary water
+train_13022,agriculture habitation haze primary road
+train_13023,haze primary
+train_13038,agriculture cultivation haze primary
+train_13077,haze primary
+train_13090,haze primary
+train_13103,agriculture habitation haze road
+train_13106,agriculture haze primary road
+train_13107,haze primary water
+train_13108,haze primary
+train_13118,haze primary
+train_13125,agriculture haze primary
+train_13139,haze primary
+train_13148,haze primary
+train_13168,agriculture haze primary
+train_13170,haze primary
+train_13178,haze primary
+train_13182,haze primary
+train_13191,agriculture haze primary
+train_13217,haze primary water
+train_13259,haze primary water
+train_13307,haze primary
+train_13316,cultivation haze primary water
+train_13337,haze primary water
+train_13367,agriculture haze primary
+train_13379,haze primary
+train_13388,haze primary
+train_13399,haze primary
+train_13414,haze primary
+train_13426,bare_ground haze
+train_13452,agriculture haze primary
+train_13455,agriculture haze primary
+train_13542,haze primary
+train_13562,haze primary water
+train_13579,agriculture haze primary road
+train_13593,haze primary
+train_13605,agriculture haze primary
+train_13617,haze primary
+train_13632,haze primary
+train_13639,haze primary
+train_13641,agriculture cultivation haze primary road
+train_13654,haze primary
+train_13662,haze primary
+train_13696,haze primary
+train_13701,haze primary
+train_13716,haze primary
+train_13720,haze primary
+train_13727,agriculture haze primary road water
+train_13733,agriculture cultivation habitation haze primary road
+train_13734,haze primary
+train_13757,haze primary water
+train_13827,haze primary water
+train_13828,haze primary
+train_13846,haze primary water
+train_13865,habitation haze primary
+train_13891,haze primary
+train_13944,agriculture haze primary
+train_13953,haze primary
+train_13993,agriculture cultivation haze primary
+train_14004,haze primary water
+train_14040,agriculture haze primary water
+train_14065,haze primary water
+train_14074,haze primary
+train_14101,haze primary
+train_14144,haze primary road water
+train_14152,agriculture haze primary
+train_14159,bare_ground haze primary
+train_14186,haze primary road
+train_14196,haze primary
+train_14200,haze primary
+train_14217,haze primary
+train_14244,haze primary
+train_14250,agriculture haze primary
+train_14251,bare_ground haze primary water
+train_14257,haze primary
+train_14270,haze primary
+train_14298,agriculture haze primary road
+train_14348,haze primary
+train_14354,haze primary road water
+train_14362,haze primary
+train_14386,agriculture haze primary water
+train_14399,haze primary water
+train_14408,haze primary
+train_14439,haze primary
+train_14446,haze primary
+train_14500,haze primary road
+train_14517,agriculture cultivation habitation haze primary road water
+train_14525,haze primary road
+train_14531,agriculture haze primary road
+train_14555,agriculture haze primary
+train_14566,haze primary
+train_14569,haze primary
+train_14581,haze primary
+train_14587,habitation haze primary road water
+train_14594,agriculture cultivation haze primary water
+train_14601,haze primary water
+train_14614,haze primary
+train_14618,cultivation haze primary water
+train_14629,haze primary
+train_14647,haze primary
+train_14648,agriculture haze primary
+train_14671,haze primary road water
+train_14692,haze primary
+train_14700,agriculture haze primary road
+train_14714,cultivation habitation haze primary
+train_14725,haze primary
+train_14734,haze primary
+train_14740,haze primary water
+train_14747,haze primary
+train_14751,haze primary
+train_14759,haze primary
+train_14763,haze primary
+train_14768,haze primary road
+train_14792,haze primary
+train_14816,haze primary water
+train_14820,haze primary
+train_14826,haze primary
+train_14852,haze primary
+train_14883,haze primary
+train_14886,cultivation haze primary
+train_14898,haze primary
+train_14901,haze primary
+train_14903,haze primary
+train_14924,haze primary
+train_14939,agriculture habitation haze primary road
+train_14951,agriculture haze primary water
+train_14962,haze primary
+train_14967,cultivation haze primary
+train_14982,haze primary
+train_14984,haze primary
+train_15005,haze primary
+train_15011,haze primary water
+train_15036,haze primary
+train_15041,haze primary
+train_15043,haze primary
+train_15044,haze primary
+train_15087,haze primary
+train_15092,haze primary
+train_15109,haze primary water
+train_15134,habitation haze primary
+train_15135,haze primary
+train_15138,haze primary
+train_15139,agriculture haze primary
+train_15143,haze primary water
+train_15153,haze primary
+train_15183,haze primary
+train_15202,agriculture haze primary
+train_15207,haze primary water
+train_15208,haze primary
+train_15217,haze primary
+train_15219,haze primary
+train_15258,agriculture haze primary water
+train_15279,agriculture haze primary
+train_15280,haze primary
+train_15284,haze primary
+train_15294,haze primary water
+train_15348,haze primary
+train_15376,agriculture haze primary road
+train_15394,haze primary
+train_15405,haze primary
+train_15413,haze primary
+train_15438,agriculture cultivation haze primary road
+train_15471,agriculture haze primary
+train_15485,haze primary
+train_15512,agriculture habitation haze primary road
+train_15560,haze primary
+train_15575,haze primary
+train_15604,agriculture haze primary road
+train_15625,haze primary water
+train_15656,haze primary
+train_15672,haze primary
+train_15680,haze primary
+train_15685,haze primary
+train_15698,agriculture haze primary road
+train_15727,cultivation haze primary
+train_15745,haze primary water
+train_15750,haze primary
+train_15756,agriculture cultivation haze primary
+train_15762,agriculture habitation haze primary road
+train_15778,haze primary
+train_15779,haze primary road water
+train_15790,haze primary
+train_15793,haze primary
+train_15800,haze primary water
+train_15813,haze primary
+train_15819,haze primary
+train_15833,haze primary water
+train_15837,haze primary
+train_15865,haze primary
+train_15887,habitation haze primary road
+train_15917,haze primary
+train_15920,haze primary
+train_15963,agriculture haze primary water
+train_15989,haze primary
+train_16001,haze primary
+train_16003,haze primary
+train_16019,haze primary
+train_16030,haze primary
+train_16033,agriculture cultivation haze primary
+train_16041,haze primary road
+train_16044,haze primary
+train_16047,agriculture cultivation haze primary
+train_16077,haze primary
+train_16100,haze primary
+train_16108,agriculture haze primary water
+train_16132,agriculture haze primary road
+train_16141,haze primary road
+train_16145,agriculture haze primary road
+train_16187,haze primary water
+train_16190,agriculture haze primary road water
+train_16202,haze primary
+train_16209,haze primary water
+train_16212,haze primary water
+train_16228,haze primary water
+train_16236,haze primary
+train_16242,haze primary
+train_16245,haze primary water
+train_16247,agriculture habitation haze primary
+train_16266,haze primary water
+train_16279,haze primary
+train_16282,haze primary
+train_16301,haze primary
+train_16302,agriculture haze primary
+train_16352,agriculture cultivation haze primary road
+train_16362,agriculture haze primary water
+train_16376,agriculture haze primary water
+train_16378,haze primary
+train_16396,haze primary water
+train_16414,haze primary
+train_16426,agriculture haze primary road
+train_16447,haze primary
+train_16450,agriculture haze primary
+train_16466,cultivation haze primary
+train_16494,agriculture haze primary water
+train_16502,haze primary
+train_16512,haze primary water
+train_16556,agriculture cultivation haze primary
+train_16559,agriculture cultivation haze primary
+train_16566,haze primary
+train_16608,agriculture cultivation haze primary
+train_16624,agriculture haze primary road water
+train_16654,haze primary
+train_16663,agriculture haze primary
+train_16669,haze primary water
+train_16670,agriculture haze primary road
+train_16674,haze primary water
+train_16679,haze primary water
+train_16682,haze primary water
+train_16685,haze primary
+train_16689,haze primary
+train_16697,haze primary
+train_16703,haze primary
+train_16712,haze water
+train_16717,agriculture haze primary road
+train_16736,haze primary
+train_16748,agriculture cultivation haze primary
+train_16755,agriculture haze primary
+train_16770,haze primary
+train_16778,agriculture haze primary water
+train_16779,haze primary
+train_16780,haze primary
+train_16783,agriculture haze primary
+train_16798,haze primary
+train_16815,haze primary
+train_16824,agriculture haze primary
+train_16842,haze primary
+train_16867,haze primary
+train_16880,haze primary
+train_16906,haze primary
+train_16907,agriculture cultivation haze primary road
+train_16910,haze primary water
+train_16921,haze primary
+train_16928,haze primary
+train_16955,agriculture haze primary water
+train_16958,agriculture haze primary road water
+train_16973,haze primary
+train_16977,haze primary road water
+train_16979,haze primary water
+train_17007,habitation haze primary road
+train_17013,agriculture cultivation haze primary water
+train_17034,haze primary
+train_17040,haze primary
+train_17081,haze primary
+train_17108,agriculture haze primary road
+train_17113,haze primary water
+train_17130,haze primary road water
+train_17142,agriculture haze primary water
+train_17181,haze primary
+train_17202,agriculture haze primary road
+train_17212,haze primary
+train_17226,haze primary
+train_17247,haze primary
+train_17263,haze primary water
+train_17266,haze primary
+train_17280,haze primary road
+train_17288,haze primary
+train_17295,haze primary
+train_17304,agriculture cultivation haze primary
+train_17332,haze primary
+train_17348,haze primary
+train_17384,haze primary
+train_17408,agriculture cultivation haze primary road
+train_17424,haze primary
+train_17428,agriculture bare_ground haze primary
+train_17469,haze primary
+train_17470,agriculture haze primary
+train_17473,haze primary water
+train_17499,agriculture cultivation haze primary road
+train_17506,agriculture haze primary water
+train_17585,haze primary road
+train_17593,haze primary
+train_17594,haze primary
+train_17603,haze primary
+train_17612,haze primary
+train_17614,haze primary
+train_17658,haze primary
+train_17660,haze primary
+train_17663,haze primary
+train_17674,agriculture haze primary road water
+train_17704,haze primary
+train_17705,haze primary
+train_17706,haze primary
+train_17728,haze primary
+train_17748,habitation haze primary road water
+train_17757,agriculture haze primary
+train_17763,haze primary
+train_17765,haze primary water
+train_17776,haze primary
+train_17799,habitation haze primary road
+train_17806,agriculture haze primary
+train_17836,agriculture cultivation haze primary
+train_17856,haze primary water
+train_17858,agriculture cultivation haze primary
+train_17928,haze primary
+train_17944,haze primary road water
+train_17956,haze primary
+train_17961,habitation haze water
+train_17971,cultivation haze primary
+train_17976,cultivation haze primary road
+train_17983,haze primary
+train_17993,haze primary
+train_17994,haze primary
+train_18000,agriculture haze primary water
+train_18019,haze primary water
+train_18022,haze primary
+train_18047,haze primary selective_logging
+train_18057,agriculture habitation haze primary
+train_18060,haze primary
+train_18072,agriculture haze primary
+train_18095,cultivation haze primary water
+train_18126,agriculture haze primary road
+train_18177,agriculture haze primary
+train_18181,haze primary
+train_18184,agriculture haze primary water
+train_18186,haze primary
+train_18243,haze primary water
+train_18248,haze primary
+train_18249,agriculture cultivation haze primary road water
+train_18250,haze primary
+train_18252,agriculture haze primary
+train_18270,agriculture haze primary
+train_18275,agriculture cultivation habitation haze primary water
+train_18287,agriculture bare_ground haze
+train_18302,haze primary water
+train_18324,haze primary water
+train_18325,agriculture haze primary water
+train_18338,bare_ground haze primary water
+train_18340,haze primary
+train_18357,haze primary road water
+train_18360,agriculture haze primary
+train_18441,haze primary water
+train_18445,haze primary
+train_18458,haze primary road water
+train_18469,artisinal_mine haze primary water
+train_18477,haze primary water
+train_18493,haze primary road water
+train_18515,haze primary
+train_18521,haze primary
+train_18534,haze primary
+train_18555,haze primary
+train_18569,haze primary
+train_18570,haze primary
+train_18571,agriculture haze primary
+train_18596,haze primary
+train_18602,haze primary
+train_18607,haze primary
+train_18611,agriculture cultivation haze primary
+train_18623,haze primary water
+train_18666,haze primary road water
+train_18676,agriculture haze primary road
+train_18679,haze primary
+train_18718,haze primary
+train_18763,haze primary
+train_18790,haze primary
+train_18795,haze primary
+train_18809,agriculture haze primary road
+train_18813,haze primary
+train_18822,haze primary
+train_18830,haze primary
+train_18843,haze primary
+train_18868,haze primary
+train_18886,haze primary
+train_18890,haze primary
+train_18896,haze primary
+train_18905,haze primary
+train_18944,haze primary
+train_18952,haze primary
+train_18966,haze primary
+train_18971,haze primary water
+train_18992,agriculture haze primary water
+train_19001,haze primary water
+train_19004,haze primary
+train_19066,haze primary
+train_19073,haze primary
+train_19078,haze primary
+train_19084,haze primary
+train_19093,haze primary
+train_19107,haze primary
+train_19115,agriculture bare_ground haze primary
+train_19116,haze primary
+train_19127,haze primary
+train_19139,haze primary
+train_19154,haze primary water
+train_19184,agriculture cultivation haze primary
+train_19205,agriculture haze primary road water
+train_19206,haze primary
+train_19219,haze primary water
+train_19270,cultivation haze primary water
+train_19283,haze primary
+train_19286,bare_ground haze
+train_19292,haze primary water
+train_19322,agriculture haze primary road
+train_19405,haze primary
+train_19407,haze primary
+train_19424,agriculture haze primary road
+train_19438,haze primary water
+train_19449,haze primary water
+train_19499,haze primary
+train_19512,haze primary
+train_19526,agriculture haze primary
+train_19545,agriculture haze primary
+train_19551,haze primary
+train_19568,agriculture haze primary road water
+train_19577,haze primary
+train_19579,agriculture haze primary road water
+train_19581,haze primary water
+train_19622,agriculture haze primary water
+train_19627,haze primary
+train_19632,haze primary water
+train_19676,agriculture haze primary road water
+train_19687,agriculture cultivation haze primary
+train_19692,haze primary water
+train_19718,haze primary
+train_19721,haze primary
+train_19738,haze primary
+train_19751,haze primary
+train_19753,haze primary water
+train_19754,haze primary water
+train_19760,haze primary
+train_19789,haze primary
+train_19797,haze primary
+train_19808,haze primary
+train_19815,agriculture haze primary
+train_19817,agriculture haze primary road
+train_19823,haze primary
+train_19846,agriculture cultivation haze primary water
+train_19848,haze primary road selective_logging water
+train_19850,agriculture haze primary
+train_19855,haze primary
+train_19873,agriculture haze primary water
+train_19874,haze primary water
+train_19890,haze primary
+train_19922,haze primary
+train_19926,haze primary
+train_19963,haze primary water
+train_19973,haze primary
+train_19995,haze primary
+train_20006,haze primary
+train_20013,agriculture habitation haze primary water
+train_20026,haze primary
+train_20041,haze primary water
+train_20044,haze primary
+train_20048,haze primary
+train_20076,habitation haze primary water
+train_20085,haze primary
+train_20101,haze primary water
+train_20103,haze primary
+train_20167,haze primary
+train_20212,haze primary
+train_20213,haze primary
+train_20234,haze primary
+train_20243,haze primary
+train_20246,haze primary water
+train_20270,haze primary
+train_20284,haze primary
+train_20286,haze primary water
+train_20298,haze primary
+train_20299,agriculture cultivation haze primary water
+train_20302,haze primary
+train_20314,agriculture haze primary
+train_20339,haze primary water
+train_20362,haze primary
+train_20370,haze primary
+train_20384,agriculture haze primary water
+train_20390,haze primary road
+train_20393,haze primary
+train_20400,haze primary
+train_20460,cultivation haze primary
+train_20509,haze primary
+train_20518,haze primary
+train_20537,haze primary
+train_20541,haze primary water
+train_20552,agriculture haze primary road
+train_20563,haze primary
+train_20592,haze primary water
+train_20602,haze primary
+train_20623,haze primary
+train_20638,haze primary
+train_20646,agriculture haze primary road
+train_20647,haze primary
+train_20651,haze primary water
+train_20658,haze primary
+train_20676,haze primary road water
+train_20704,agriculture cultivation haze primary
+train_20706,habitation haze primary road
+train_20708,haze primary
+train_20719,haze primary
+train_20722,haze primary water
+train_20734,agriculture haze primary water
+train_20764,haze primary
+train_20780,haze primary
+train_20791,haze primary
+train_20846,agriculture haze primary road
+train_20863,agriculture cultivation haze primary road
+train_20879,haze road water
+train_20928,haze primary
+train_20934,habitation haze primary water
+train_20942,haze primary
+train_20954,bare_ground haze primary water
+train_20970,agriculture haze primary water
+train_20989,haze primary
+train_20992,agriculture haze primary road
+train_21000,haze primary
+train_21008,haze primary
+train_21024,agriculture habitation haze primary road water
+train_21038,conventional_mine haze primary road
+train_21039,haze primary road
+train_21060,agriculture haze primary
+train_21094,agriculture habitation haze primary road
+train_21121,agriculture haze primary
+train_21126,haze primary water
+train_21130,haze primary
+train_21136,haze primary water
+train_21142,haze primary
+train_21199,haze primary
+train_21207,haze primary
+train_21213,agriculture haze primary road water
+train_21219,haze primary
+train_21251,haze primary
+train_21261,haze primary water
+train_21263,agriculture haze primary road water
+train_21281,agriculture cultivation haze primary road water
+train_21282,agriculture haze primary water
+train_21289,agriculture haze primary
+train_21316,haze primary
+train_21328,haze primary water
+train_21342,haze primary
+train_21369,haze primary road water
+train_21373,agriculture cultivation habitation haze primary road
+train_21374,haze primary
+train_21389,haze primary
+train_21427,agriculture haze primary road
+train_21442,haze primary
+train_21445,agriculture haze primary road
+train_21449,agriculture haze primary
+train_21481,haze primary
+train_21514,haze primary
+train_21548,agriculture habitation haze primary
+train_21604,haze primary water
+train_21609,haze primary
+train_21612,agriculture cultivation haze primary road
+train_21640,blooming haze primary
+train_21646,agriculture cultivation cultivation haze primary road
+train_21677,habitation haze primary road
+train_21714,haze primary
+train_21719,agriculture cultivation haze primary
+train_21745,haze primary road
+train_21784,agriculture haze primary
+train_21805,agriculture haze primary
+train_21814,haze primary
+train_21824,haze primary
+train_21852,haze primary water
+train_21904,agriculture cultivation haze primary
+train_21910,agriculture cultivation haze primary
+train_21935,haze primary
+train_21949,agriculture cultivation haze primary road
+train_21950,haze primary
+train_21961,haze primary
+train_21980,haze primary
+train_21992,agriculture haze primary
+train_22001,haze primary
+train_22013,haze primary
+train_22029,agriculture cultivation habitation haze primary water
+train_22044,haze primary
+train_22078,haze primary
+train_22097,haze primary
+train_22161,haze primary
+train_22182,agriculture haze water
+train_22202,haze primary
+train_22219,agriculture haze primary road
+train_22220,haze primary water
+train_22224,haze primary
+train_22256,habitation haze primary road
+train_22272,haze primary road
+train_22279,agriculture habitation haze primary road
+train_22311,haze primary
+train_22312,haze primary
+train_22320,haze primary
+train_22321,haze primary
+train_22325,haze primary
+train_22364,agriculture haze primary road
+train_22370,agriculture haze primary
+train_22393,haze primary road
+train_22396,haze primary
+train_22442,haze primary
+train_22472,haze primary
+train_22488,haze primary road
+train_22507,haze primary
+train_22508,haze primary
+train_22518,agriculture habitation haze primary
+train_22528,haze primary
+train_22563,haze primary water
+train_22573,haze primary
+train_22580,agriculture haze primary
+train_22585,haze primary
+train_22586,haze primary
+train_22615,haze primary
+train_22627,artisinal_mine haze primary water
+train_22632,haze primary
+train_22656,agriculture haze primary water
+train_22661,haze primary
+train_22664,agriculture haze primary
+train_22666,haze primary
+train_22689,haze primary water
+train_22704,agriculture haze primary water
+train_22717,haze primary
+train_22727,haze primary
+train_22775,haze primary
+train_22781,haze primary
+train_22799,artisinal_mine haze primary water
+train_22875,haze primary
+train_22878,haze primary
+train_22892,agriculture haze primary
+train_22911,haze primary
+train_22917,agriculture cultivation habitation haze primary water
+train_22927,haze primary
+train_22933,haze primary
+train_22956,haze primary
+train_22978,haze primary
+train_22983,cultivation haze primary
+train_22996,agriculture haze primary road
+train_23010,haze primary
+train_23066,haze primary
+train_23086,haze primary
+train_23104,haze primary
+train_23113,haze primary
+train_23156,haze primary
+train_23177,haze primary
+train_23182,haze primary
+train_23209,agriculture haze primary water
+train_23236,haze primary
+train_23247,haze primary
+train_23271,haze primary
+train_23279,agriculture cultivation habitation haze primary road
+train_23282,agriculture cultivation haze primary
+train_23291,agriculture haze primary road
+train_23297,agriculture haze primary
+train_23301,haze primary water
+train_23309,haze primary
+train_23311,agriculture cultivation haze primary
+train_23318,haze primary
+train_23323,haze primary
+train_23337,haze primary
+train_23352,haze primary
+train_23361,haze primary
+train_23366,haze primary
+train_23410,haze primary
+train_23422,agriculture haze primary
+train_23429,agriculture haze primary road
+train_23431,haze primary
+train_23481,haze primary
+train_23516,haze primary
+train_23533,agriculture cultivation haze primary
+train_23544,haze primary road water
+train_23548,haze primary
+train_23550,haze primary
+train_23564,haze primary
+train_23568,agriculture haze primary
+train_23576,haze primary
+train_23584,haze primary
+train_23586,haze primary
+train_23592,haze primary
+train_23613,haze primary
+train_23614,agriculture haze primary
+train_23643,agriculture haze primary
+train_23649,agriculture cultivation haze primary water
+train_23656,agriculture haze primary water
+train_23669,agriculture haze primary road
+train_23689,haze primary
+train_23690,haze primary
+train_23694,haze primary
+train_23699,haze primary
+train_23710,haze primary water
+train_23719,haze primary
+train_23721,agriculture habitation haze primary
+train_23724,haze primary water
+train_23734,haze primary
+train_23738,haze primary
+train_23739,haze primary
+train_23741,haze primary
+train_23747,agriculture haze primary water
+train_23766,haze primary
+train_23785,agriculture haze primary road
+train_23802,haze primary
+train_23816,haze primary
+train_23870,agriculture haze primary water
+train_23888,agriculture haze primary
+train_23933,haze primary road
+train_23934,agriculture bare_ground habitation haze primary road
+train_23941,haze primary
+train_23960,agriculture cultivation haze primary
+train_23984,agriculture haze primary water
+train_23990,haze primary
+train_23993,haze primary water
+train_24000,haze primary
+train_24004,haze primary
+train_24017,haze primary
+train_24022,haze primary road water
+train_24033,haze primary road water
+train_24047,haze primary water
+train_24092,haze primary
+train_24100,haze primary
+train_24118,haze primary
+train_24122,haze primary
+train_24124,agriculture haze primary road
+train_24128,cultivation haze primary water
+train_24142,haze primary
+train_24146,haze primary
+train_24155,haze primary
+train_24161,habitation haze primary road water
+train_24169,haze primary water
+train_24179,haze primary water
+train_24180,haze primary road
+train_24187,agriculture haze primary water
+train_24193,agriculture cultivation haze primary road
+train_24197,haze primary
+train_24198,haze primary
+train_24199,agriculture cultivation haze primary water
+train_24231,haze primary
+train_24268,agriculture habitation haze primary road
+train_24297,haze primary
+train_24312,haze primary water
+train_24334,haze primary
+train_24345,habitation haze primary water
+train_24347,haze primary water
+train_24417,haze primary
+train_24437,agriculture habitation haze primary road
+train_24438,agriculture haze primary water
+train_24469,haze primary
+train_24473,haze primary water
+train_24480,agriculture haze primary
+train_24491,haze primary water
+train_24508,agriculture haze primary
+train_24526,haze primary
+train_24542,haze primary
+train_24554,agriculture haze road
+train_24572,agriculture haze primary
+train_24586,haze primary
+train_24596,haze primary
+train_24603,agriculture haze primary water
+train_24613,haze primary
+train_24623,agriculture haze primary water
+train_24627,agriculture haze primary water
+train_24648,haze primary
+train_24652,haze primary road water
+train_24678,haze primary water
+train_24694,haze primary
+train_24711,haze primary
+train_24730,haze primary
+train_24740,haze primary
+train_24746,artisinal_mine haze primary water
+train_24748,haze primary
+train_24751,haze primary
+train_24752,haze primary
+train_24754,cultivation haze primary
+train_24759,agriculture cultivation haze primary
+train_24768,haze primary
+train_24796,haze primary
+train_24797,haze primary water
+train_24801,haze primary water
+train_24806,haze primary
+train_24809,haze primary
+train_24823,agriculture habitation haze primary road water
+train_24827,agriculture haze primary
+train_24828,agriculture haze primary road
+train_24832,haze primary
+train_24837,agriculture haze primary
+train_24848,haze primary
+train_24849,agriculture haze primary
+train_24857,haze primary
+train_24868,agriculture cultivation habitation haze primary road water
+train_24882,haze primary selective_logging
+train_24902,agriculture haze primary road
+train_24908,agriculture bare_ground haze primary
+train_24912,haze primary
+train_24924,haze primary
+train_24926,haze primary road water
+train_24927,haze primary
+train_24940,haze primary water
+train_24946,agriculture habitation haze primary road
+train_25000,haze primary
+train_25003,haze primary water
+train_25009,haze primary
+train_25024,haze primary water
+train_25090,haze primary
+train_25092,agriculture haze primary road water
+train_25102,agriculture cultivation haze primary
+train_25104,haze primary
+train_25143,cultivation haze primary slash_burn
+train_25156,haze primary
+train_25229,agriculture haze primary
+train_25251,agriculture bare_ground haze primary
+train_25267,haze primary water
+train_25279,haze primary
+train_25282,agriculture haze primary road
+train_25299,haze primary
+train_25349,haze primary
+train_25402,haze primary
+train_25403,agriculture haze primary water
+train_25405,haze primary
+train_25413,haze primary
+train_25447,agriculture habitation haze primary
+train_25448,haze primary
+train_25469,haze primary
+train_25508,agriculture haze primary road
+train_25512,agriculture haze primary road
+train_25520,haze primary
+train_25537,haze primary
+train_25542,haze primary
+train_25569,haze primary
+train_25581,agriculture cultivation haze primary water
+train_25600,haze primary water
+train_25603,agriculture cultivation haze primary
+train_25605,agriculture haze primary
+train_25616,agriculture cultivation haze primary water
+train_25700,agriculture cultivation habitation haze primary road
+train_25707,agriculture cultivation haze primary
+train_25773,haze primary
+train_25777,agriculture cultivation haze primary
+train_25822,agriculture haze primary
+train_25847,haze primary road
+train_25854,haze primary
+train_25860,haze primary
+train_25861,haze primary
+train_25896,haze primary water
+train_25899,haze primary
+train_25901,agriculture haze primary road
+train_25907,haze primary water
+train_25919,haze primary
+train_25958,haze primary
+train_25965,haze primary
+train_25970,agriculture haze primary
+train_25984,agriculture habitation haze primary road
+train_25987,agriculture cultivation habitation haze primary road
+train_25994,agriculture cultivation haze primary
+train_26018,agriculture haze primary water
+train_26023,haze primary
+train_26027,agriculture haze primary water
+train_26066,cultivation haze primary
+train_26069,haze primary
+train_26073,haze primary
+train_26075,haze primary
+train_26100,haze primary
+train_26115,haze primary water
+train_26130,haze primary water
+train_26134,haze primary
+train_26146,agriculture haze primary water
+train_26148,agriculture haze primary water
+train_26152,agriculture haze primary road
+train_26170,haze primary
+train_26197,haze primary
+train_26201,haze primary
+train_26217,haze primary
+train_26233,haze primary
+train_26250,haze primary
+train_26288,haze primary
+train_26344,haze primary
+train_26357,agriculture habitation haze primary road
+train_26385,haze primary
+train_26407,haze primary
+train_26414,haze primary
+train_26418,haze primary
+train_26422,cultivation haze primary
+train_26427,haze primary water
+train_26433,agriculture haze primary
+train_26444,agriculture haze primary road
+train_26455,agriculture haze primary
+train_26468,haze primary
+train_26544,haze primary
+train_26566,agriculture haze primary road
+train_26588,haze primary road water
+train_26591,haze primary
+train_26598,haze primary
+train_26599,haze primary
+train_26613,haze primary
+train_26622,haze primary
+train_26688,habitation haze primary water
+train_26699,haze primary water
+train_26715,agriculture haze primary road
+train_26717,haze primary road
+train_26729,haze primary
+train_26730,haze primary
+train_26740,haze primary
+train_26747,haze primary
+train_26757,haze primary water
+train_26820,haze primary road water
+train_26827,haze primary
+train_26832,haze primary road water
+train_26838,haze primary
+train_26856,haze primary
+train_26862,haze primary
+train_26880,agriculture habitation haze primary road
+train_26885,haze primary
+train_26886,agriculture haze primary
+train_26905,haze primary road water
+train_26914,agriculture haze primary
+train_26927,haze primary
+train_26938,haze primary water
+train_26975,agriculture haze primary
+train_26977,haze primary
+train_26981,haze primary
+train_27003,cultivation haze primary water
+train_27030,haze water
+train_27046,haze primary
+train_27068,haze primary
+train_27075,agriculture haze primary road
+train_27076,haze primary
+train_27099,haze primary
+train_27112,haze primary
+train_27127,haze primary
+train_27143,haze primary
+train_27150,haze primary
+train_27171,agriculture haze primary road
+train_27178,haze primary
+train_27190,cultivation haze primary
+train_27205,haze primary
+train_27217,agriculture haze primary road
+train_27219,haze primary
+train_27238,haze primary
+train_27243,habitation haze primary road water
+train_27264,agriculture haze primary water
+train_27271,haze primary water
+train_27289,haze primary
+train_27299,agriculture haze primary road water
+train_27322,haze primary
+train_27343,agriculture haze primary
+train_27385,agriculture haze primary water
+train_27394,haze primary
+train_27402,cultivation habitation haze primary water
+train_27417,haze primary water
+train_27425,agriculture haze road
+train_27471,haze primary
+train_27509,haze primary
+train_27565,agriculture cultivation haze primary
+train_27604,haze primary
+train_27607,habitation haze primary water
+train_27620,haze primary water
+train_27665,haze primary
+train_27696,haze primary
+train_27706,haze primary
+train_27720,agriculture haze primary road
+train_27748,agriculture habitation haze primary road
+train_27760,haze primary
+train_27767,habitation haze primary water
+train_27773,habitation haze primary road
+train_27779,haze primary
+train_27824,agriculture haze primary road
+train_27867,agriculture cultivation haze primary
+train_27880,haze primary
+train_27893,haze primary
+train_27910,haze primary
+train_27930,haze primary
+train_27959,haze primary
+train_27985,haze primary
+train_28005,haze primary
+train_28011,agriculture haze primary
+train_28013,agriculture haze primary
+train_28029,haze primary
+train_28030,cultivation haze primary
+train_28050,haze primary
+train_28084,agriculture cultivation haze primary road
+train_28107,haze primary road water
+train_28126,agriculture haze primary road water
+train_28155,agriculture habitation haze primary road
+train_28199,cultivation haze primary
+train_28204,haze primary water
+train_28213,agriculture haze primary
+train_28216,haze primary
+train_28220,haze primary
+train_28262,haze primary water
+train_28275,agriculture haze primary road
+train_28286,agriculture habitation haze primary road
+train_28295,haze primary water
+train_28296,haze primary
+train_28303,haze primary
+train_28311,cultivation haze primary water
+train_28336,haze primary
+train_28374,haze primary
+train_28411,bare_ground haze
+train_28414,haze primary
+train_28460,agriculture cultivation haze primary water
+train_28471,haze primary
+train_28480,haze primary water
+train_28491,agriculture habitation haze primary road
+train_28546,haze primary water
+train_28582,haze primary
+train_28584,agriculture haze primary road
+train_28586,haze primary
+train_28590,haze primary
+train_28604,haze primary
+train_28609,haze primary water
+train_28610,haze primary
+train_28632,haze primary
+train_28635,haze primary
+train_28640,haze primary
+train_28651,haze primary
+train_28660,haze primary
+train_28661,haze primary
+train_28676,haze primary
+train_28698,haze primary
+train_28699,haze primary
+train_28704,haze primary
+train_28722,haze primary water
+train_28729,haze primary
+train_28736,haze primary
+train_28740,haze primary
+train_28756,haze primary
+train_28761,agriculture habitation haze primary road
+train_28772,haze primary
+train_28774,haze primary
+train_28784,haze primary
+train_28786,haze primary
+train_28791,haze primary
+train_28802,haze primary
+train_28822,haze primary
+train_28827,haze primary
+train_28858,agriculture haze primary road
+train_28859,agriculture haze primary road water
+train_28866,haze primary water
+train_28870,haze primary
+train_28892,haze primary
+train_28905,haze primary
+train_28912,haze primary
+train_28933,agriculture haze primary road
+train_28938,haze primary
+train_28942,haze primary
+train_28979,agriculture haze primary
+train_28984,cultivation haze primary
+train_28995,haze primary
+train_29013,haze primary water
+train_29019,cultivation haze primary water
+train_29058,haze primary
+train_29094,agriculture haze primary water
+train_29103,haze primary
+train_29112,haze primary water
+train_29135,haze primary
+train_29144,haze primary water
+train_29148,agriculture habitation haze primary water
+train_29178,haze primary road water
+train_29184,agriculture haze primary road
+train_29193,haze primary water
+train_29197,haze primary
+train_29218,haze primary
+train_29226,agriculture habitation haze primary road water
+train_29258,haze primary
+train_29261,haze primary
+train_29263,haze primary
+train_29286,haze primary water
+train_29305,agriculture haze primary water
+train_29321,haze primary
+train_29334,haze primary road
+train_29371,haze primary water
+train_29376,haze primary
+train_29389,bare_ground haze
+train_29418,haze primary road water
+train_29423,haze primary water
+train_29434,haze primary
+train_29460,agriculture haze primary road water
+train_29483,haze primary road water
+train_29506,haze primary
+train_29510,haze primary
+train_29532,haze primary
+train_29556,agriculture haze primary water
+train_29577,haze primary road water
+train_29586,haze primary water
+train_29599,haze primary
+train_29608,agriculture habitation haze primary road
+train_29615,haze primary
+train_29623,haze primary
+train_29628,habitation haze primary water
+train_29632,haze primary
+train_29644,haze primary
+train_29647,haze primary
+train_29648,haze primary
+train_29685,haze primary
+train_29708,agriculture cultivation haze primary
+train_29709,haze primary
+train_29747,haze primary
+train_29764,cultivation haze primary
+train_29765,agriculture cultivation haze primary
+train_29773,haze primary
+train_29787,haze primary
+train_29790,cultivation haze primary
+train_29812,agriculture haze primary road
+train_29817,haze primary
+train_29835,agriculture cultivation haze primary road
+train_29839,haze primary water
+train_29868,haze primary
+train_29887,haze primary
+train_29916,agriculture habitation haze primary road
+train_29939,haze primary
+train_29986,haze primary
+train_29993,haze primary
+train_29997,haze primary water
+train_30006,agriculture haze primary road
+train_30015,haze primary
+train_30038,agriculture haze primary
+train_30047,haze primary
+train_30051,haze primary
+train_30052,agriculture haze primary
+train_30066,agriculture haze primary road
+train_30099,haze primary
+train_30135,haze primary
+train_30153,haze primary
+train_30181,haze primary
+train_30183,haze primary
+train_30190,haze primary road water
+train_30191,haze primary water
+train_30201,haze primary water
+train_30204,haze primary
+train_30205,haze primary
+train_30209,agriculture haze primary water
+train_30214,haze primary
+train_30221,haze primary
+train_30235,haze primary
+train_30258,agriculture haze primary road
+train_30268,haze primary water
+train_30272,haze primary
+train_30306,bare_ground haze primary
+train_30307,haze primary
+train_30341,haze primary
+train_30344,haze primary water
+train_30345,agriculture habitation haze primary
+train_30357,agriculture haze primary road
+train_30366,haze primary water
+train_30373,haze primary
+train_30398,haze primary
+train_30425,haze primary
+train_30432,haze primary
+train_30463,agriculture cultivation haze primary water
+train_30478,haze primary water
+train_30495,haze primary
+train_30499,agriculture cultivation haze primary road
+train_30524,haze primary water
+train_30530,haze primary
+train_30533,haze primary
+train_30544,habitation haze primary road water
+train_30550,haze primary water
+train_30575,agriculture cultivation haze primary road
+train_30589,haze primary
+train_30596,haze primary
+train_30598,haze primary
+train_30609,haze primary
+train_30619,haze primary
+train_30633,agriculture haze primary
+train_30641,haze primary water
+train_30644,haze primary
+train_30661,haze primary
+train_30665,haze primary
+train_30673,haze primary water
+train_30681,haze primary
+train_30683,habitation haze primary water
+train_30699,haze primary
+train_30727,agriculture haze primary road
+train_30757,haze primary water
+train_30761,haze primary
+train_30765,haze primary road water
+train_30776,agriculture haze primary
+train_30806,haze primary
+train_30808,haze primary
+train_30815,haze primary water
+train_30820,agriculture cultivation habitation haze primary road
+train_30836,haze primary
+train_30844,agriculture haze primary road
+train_30848,haze primary
+train_30879,haze primary
+train_30889,haze water
+train_30916,haze primary
+train_30924,haze primary
+train_30940,haze primary
+train_30954,haze primary
+train_30961,agriculture bare_ground haze primary
+train_30970,haze primary water
+train_31002,agriculture haze primary
+train_31007,haze primary
+train_31013,haze primary water
+train_31015,haze primary
+train_31020,haze primary
+train_31034,haze primary water
+train_31047,haze primary water
+train_31050,haze primary
+train_31056,haze primary
+train_31066,haze primary
+train_31091,haze primary
+train_31109,agriculture haze primary
+train_31153,haze primary
+train_31163,haze primary
+train_31180,haze primary
+train_31188,haze primary
+train_31198,haze primary
+train_31205,haze primary road
+train_31215,haze primary
+train_31235,habitation haze primary water
+train_31274,haze primary
+train_31325,haze primary road water
+train_31331,haze primary
+train_31333,agriculture haze primary
+train_31352,haze primary
+train_31354,agriculture habitation haze primary
+train_31357,agriculture haze primary
+train_31431,haze primary
+train_31458,haze primary
+train_31474,agriculture habitation haze primary road
+train_31494,agriculture haze primary road water
+train_31528,agriculture haze primary water
+train_31531,haze primary
+train_31537,haze primary
+train_31552,haze primary
+train_31553,haze primary
+train_31586,agriculture haze primary
+train_31593,haze primary
+train_31610,haze primary
+train_31614,agriculture habitation haze primary road
+train_31626,haze primary
+train_31631,haze primary
+train_31640,bare_ground haze primary
+train_31641,haze primary
+train_31645,haze primary
+train_31688,agriculture haze primary water
+train_31694,agriculture haze primary water
+train_31710,haze primary
+train_31715,agriculture habitation haze primary road
+train_31760,haze primary
+train_31762,haze primary
+train_31780,haze primary
+train_31803,haze primary
+train_31829,haze primary
+train_31844,haze primary road
+train_31852,agriculture cultivation haze primary
+train_31863,haze primary water
+train_31876,haze primary
+train_31883,haze primary
+train_31884,haze primary
+train_31897,habitation haze primary water
+train_31898,agriculture haze primary water
+train_31900,haze primary
+train_31904,agriculture bare_ground haze primary water
+train_31934,haze water
+train_31949,haze primary
+train_31958,haze primary
+train_31960,haze primary
+train_31971,haze primary
+train_32008,haze primary
+train_32022,haze primary
+train_32029,haze primary
+train_32042,haze primary
+train_32048,haze primary water
+train_32076,haze primary
+train_32082,haze primary
+train_32091,haze primary
+train_32107,haze primary
+train_32132,haze primary water
+train_32133,haze primary
+train_32135,haze primary
+train_32201,haze primary water
+train_32207,haze primary
+train_32210,haze primary
+train_32213,haze primary
+train_32224,haze primary
+train_32226,haze primary
+train_32229,haze primary
+train_32248,agriculture haze primary road
+train_32273,haze primary
+train_32276,haze primary
+train_32282,haze primary
+train_32305,haze primary
+train_32321,haze primary
+train_32333,haze primary water
+train_32343,agriculture haze primary
+train_32345,agriculture cultivation haze primary
+train_32349,haze primary
+train_32352,haze primary water
+train_32362,haze primary
+train_32366,haze primary water
+train_32424,haze primary
+train_32429,haze primary
+train_32436,haze primary
+train_32446,agriculture bare_ground habitation haze primary road
+train_32453,haze primary
+train_32469,agriculture cultivation haze primary road
+train_32499,agriculture haze primary
+train_32500,agriculture cultivation habitation haze primary road
+train_32508,haze primary water
+train_32524,agriculture haze primary
+train_32525,agriculture cultivation haze primary
+train_32582,haze primary
+train_32595,haze primary
+train_32608,haze primary
+train_32622,haze primary
+train_32625,haze primary water
+train_32646,agriculture haze primary water
+train_32671,haze primary
+train_32701,haze primary
+train_32705,agriculture cultivation haze primary
+train_32712,haze primary
+train_32776,haze primary
+train_32787,agriculture haze primary
+train_32797,haze primary
+train_32812,haze primary
+train_32814,haze primary
+train_32836,agriculture cultivation haze primary
+train_32839,haze primary
+train_32843,haze primary
+train_32847,agriculture cultivation haze primary
+train_32861,haze primary
+train_32898,agriculture haze primary
+train_32906,haze primary
+train_32920,haze primary
+train_32929,haze primary water
+train_32938,haze primary
+train_32969,haze primary
+train_32986,haze primary
+train_32988,haze primary
+train_33007,haze primary
+train_33008,haze primary water
+train_33012,haze primary
+train_33069,bare_ground haze primary water
+train_33081,haze primary
+train_33090,haze primary
+train_33114,haze primary
+train_33120,haze primary
+train_33154,haze primary
+train_33204,haze primary
+train_33205,haze primary
+train_33218,haze primary water
+train_33228,bare_ground habitation haze primary road
+train_33289,haze primary
+train_33300,haze primary
+train_33312,haze primary
+train_33329,agriculture haze
+train_33342,haze primary road
+train_33343,haze primary
+train_33351,haze primary
+train_33381,haze primary water
+train_33389,haze primary
+train_33394,haze primary
+train_33403,haze primary
+train_33424,haze primary
+train_33449,haze primary
+train_33452,cultivation habitation haze primary road water
+train_33457,haze primary water
+train_33502,haze primary
+train_33506,agriculture haze primary
+train_33535,haze primary
+train_33538,agriculture haze primary road
+train_33540,agriculture cultivation haze primary
+train_33563,haze primary
+train_33586,haze primary road
+train_33669,haze primary road water
+train_33692,haze primary
+train_33708,agriculture haze primary road
+train_33720,haze primary
+train_33732,haze primary
+train_33765,haze primary
+train_33811,haze primary
+train_33828,haze primary
+train_33830,haze primary
+train_33833,haze primary
+train_33835,agriculture haze primary road
+train_33840,haze primary
+train_33860,agriculture habitation haze primary road water
+train_33867,haze primary
+train_33868,haze primary
+train_33882,agriculture haze primary water
+train_33883,haze primary
+train_33891,agriculture haze primary road water
+train_33899,haze primary
+train_33901,haze primary
+train_33905,agriculture cultivation habitation haze primary
+train_33906,haze primary
+train_33914,agriculture haze primary road
+train_33922,agriculture haze primary
+train_33997,haze primary
+train_34054,haze primary
+train_34059,haze primary
+train_34068,agriculture haze primary
+train_34098,agriculture cultivation haze primary
+train_34101,haze primary
+train_34105,haze primary road water
+train_34119,haze primary
+train_34136,haze primary
+train_34147,haze primary water
+train_34187,cultivation haze primary
+train_34217,haze primary
+train_34265,habitation haze primary road
+train_34302,haze primary
+train_34331,haze primary water
+train_34337,haze primary water
+train_34342,haze primary
+train_34351,agriculture habitation haze primary
+train_34354,haze primary
+train_34378,agriculture haze primary water
+train_34383,bare_ground haze primary
+train_34419,haze primary water
+train_34428,agriculture cultivation habitation haze primary
+train_34436,agriculture haze primary road
+train_34441,haze primary
+train_34445,haze primary
+train_34501,haze primary
+train_34509,haze primary
+train_34510,agriculture cultivation haze primary
+train_34514,haze primary water
+train_34517,haze primary
+train_34532,bare_ground haze primary
+train_34540,bare_ground haze primary
+train_34542,agriculture haze primary water
+train_34546,haze primary
+train_34560,agriculture haze primary road
+train_34561,agriculture haze primary
+train_34584,haze primary
+train_34593,haze primary
+train_34596,haze primary
+train_34615,agriculture haze primary water
+train_34617,agriculture haze primary road
+train_34630,haze primary
+train_34668,haze primary road
+train_34673,agriculture cultivation haze primary road
+train_34693,haze primary water
+train_34698,haze primary water
+train_34700,agriculture haze primary
+train_34731,haze primary
+train_34741,haze primary
+train_34759,agriculture haze primary water
+train_34761,haze primary
+train_34784,haze primary water
+train_34792,haze primary water
+train_34833,haze primary road
+train_34838,haze primary
+train_34848,haze primary
+train_34886,agriculture habitation haze primary road
+train_34889,haze primary road water
+train_34914,haze primary
+train_34929,haze primary
+train_34941,haze primary
+train_34953,agriculture cultivation haze primary road
+train_34964,haze primary water
+train_34971,haze primary
+train_34984,haze primary water
+train_34991,agriculture blooming cultivation haze primary
+train_34997,haze primary
+train_35000,cultivation haze primary slash_burn
+train_35015,agriculture cultivation haze primary
+train_35025,haze primary water
+train_35057,haze primary water
+train_35070,haze primary
+train_35077,haze primary
+train_35094,agriculture haze primary road
+train_35129,agriculture cultivation haze primary
+train_35147,haze primary
+train_35149,haze primary
+train_35158,haze primary
+train_35174,haze primary
+train_35177,haze primary
+train_35187,haze primary road water
+train_35195,agriculture haze primary road
+train_35200,haze primary
+train_35217,haze primary
+train_35218,haze primary
+train_35224,haze primary
+train_35244,haze primary water
+train_35249,agriculture cultivation haze primary road water
+train_35259,agriculture cultivation haze primary
+train_35274,haze primary
+train_35278,haze primary
+train_35291,haze primary
+train_35302,haze primary water
+train_35305,haze primary road water
+train_35329,haze primary
+train_35334,haze primary
+train_35372,haze primary
+train_35380,haze primary
+train_35394,haze primary
+train_35421,haze primary water
+train_35454,agriculture haze primary
+train_35460,haze primary
+train_35464,haze primary
+train_35483,haze primary
+train_35501,haze primary
+train_35517,haze primary water
+train_35521,haze primary water
+train_35546,haze primary
+train_35552,haze primary
+train_35568,haze primary
+train_35587,haze primary
+train_35602,haze primary water
+train_35609,agriculture haze primary road
+train_35635,bare_ground habitation haze primary water
+train_35636,agriculture haze primary water
+train_35645,agriculture haze primary road
+train_35714,haze primary
+train_35719,haze primary
+train_35734,haze primary water
+train_35743,haze primary water
+train_35746,haze primary
+train_35755,haze primary
+train_35786,haze primary
+train_35796,haze primary
+train_35797,haze primary
+train_35826,cultivation haze primary
+train_35833,haze primary
+train_35840,haze primary water
+train_35845,haze primary
+train_35880,haze primary
+train_35912,haze primary
+train_35927,haze primary
+train_35945,haze primary
+train_35953,agriculture haze primary road
+train_35975,agriculture cultivation haze primary road
+train_36007,agriculture habitation haze primary
+train_36028,haze primary
+train_36031,haze primary
+train_36033,haze primary
+train_36034,haze primary water
+train_36080,haze primary
+train_36097,habitation haze primary
+train_36102,agriculture haze primary
+train_36107,haze primary
+train_36121,haze primary
+train_36145,bare_ground haze primary water
+train_36157,haze primary
+train_36168,haze primary
+train_36169,agriculture haze primary water
+train_36187,haze primary water
+train_36198,haze primary
+train_36222,haze primary
+train_36239,haze primary
+train_36260,haze primary
+train_36270,blooming haze primary
+train_36300,agriculture haze primary road water
+train_36313,haze primary
+train_36319,haze primary
+train_36345,haze primary
+train_36375,haze primary
+train_36380,haze primary
+train_36390,haze primary
+train_36414,haze primary
+train_36424,haze primary water
+train_36430,haze primary
+train_36447,haze primary
+train_36472,agriculture habitation haze primary road
+train_36478,haze primary
+train_36490,cultivation haze primary
+train_36515,haze primary
+train_36524,agriculture haze primary
+train_36562,haze primary
+train_36581,haze primary
+train_36610,agriculture haze primary road
+train_36633,agriculture cultivation haze primary water
+train_36649,haze primary
+train_36650,haze primary
+train_36663,agriculture cultivation haze primary
+train_36679,agriculture haze primary road
+train_36688,habitation haze primary road water
+train_36691,haze primary
+train_36694,agriculture haze primary water
+train_36726,haze primary
+train_36736,haze primary road water
+train_36756,haze primary
+train_36795,haze primary water
+train_36806,haze primary
+train_36811,haze primary water
+train_36824,haze primary
+train_36825,haze primary water
+train_36844,haze primary
+train_36846,agriculture haze primary road
+train_36849,haze primary
+train_36872,haze primary
+train_36888,haze primary
+train_36891,agriculture haze primary water
+train_36899,agriculture habitation haze primary
+train_36910,haze primary
+train_36915,haze primary water
+train_36969,haze primary
+train_36970,haze primary
+train_37003,haze primary
+train_37041,haze primary
+train_37045,haze primary water
+train_37053,haze primary
+train_37061,haze primary water
+train_37075,haze primary
+train_37077,haze primary
+train_37088,haze primary
+train_37101,haze primary
+train_37111,haze primary
+train_37128,agriculture haze primary road
+train_37149,haze primary
+train_37153,haze primary water
+train_37174,haze primary
+train_37192,haze primary
+train_37221,haze primary
+train_37242,agriculture cultivation haze primary
+train_37255,haze primary water
+train_37261,agriculture haze primary road water
+train_37303,haze primary
+train_37312,haze primary
+train_37344,haze primary
+train_37364,bare_ground cultivation haze primary
+train_37366,haze primary
+train_37389,haze primary
+train_37391,haze primary
+train_37393,haze primary water
+train_37418,haze primary
+train_37436,agriculture haze primary road
+train_37449,haze primary
+train_37457,agriculture haze primary water
+train_37462,haze primary
+train_37463,agriculture haze road
+train_37474,cultivation haze primary road
+train_37476,haze primary
+train_37481,agriculture cultivation habitation haze primary road
+train_37492,haze primary
+train_37497,haze primary water
+train_37539,agriculture haze primary
+train_37554,agriculture haze primary
+train_37566,haze primary
+train_37622,agriculture haze primary water
+train_37662,cultivation haze primary
+train_37665,haze primary
+train_37673,haze primary
+train_37675,haze primary water
+train_37679,haze primary
+train_37719,haze primary
+train_37721,haze primary
+train_37748,agriculture haze primary
+train_37759,haze primary water
+train_37793,haze primary
+train_37804,haze primary
+train_37805,haze primary
+train_37809,haze primary road
+train_37810,haze primary water
+train_37933,agriculture haze primary road
+train_37948,haze primary
+train_37954,haze primary water
+train_37956,haze primary
+train_37995,haze primary water
+train_37999,haze primary
+train_38019,agriculture cultivation haze primary water
+train_38035,haze primary
+train_38038,haze primary
+train_38040,haze primary
+train_38044,haze primary road
+train_38105,haze primary
+train_38172,haze primary
+train_38184,haze primary water
+train_38189,haze primary
+train_38230,haze primary
+train_38257,cultivation haze primary water
+train_38259,haze primary
+train_38274,haze primary road water
+train_38283,agriculture cultivation haze primary road water
+train_38284,agriculture cultivation haze primary
+train_38285,haze primary
+train_38291,haze primary
+train_38294,agriculture cultivation haze primary
+train_38301,haze primary
+train_38302,haze primary
+train_38304,haze primary
+train_38311,agriculture haze primary water
+train_38313,haze primary
+train_38314,haze primary
+train_38341,haze primary water
+train_38346,haze primary
+train_38354,agriculture haze primary road water
+train_38361,agriculture haze primary
+train_38376,haze primary water
+train_38391,haze primary
+train_38407,haze primary
+train_38411,haze primary
+train_38426,haze primary
+train_38428,haze primary
+train_38442,haze primary
+train_38445,haze primary
+train_38469,agriculture cultivation haze primary
+train_38473,haze primary
+train_38493,haze primary
+train_38507,agriculture haze primary road
+train_38527,haze primary
+train_38532,haze primary
+train_38542,agriculture haze primary water
+train_38560,haze primary
+train_38574,haze primary
+train_38589,haze primary water
+train_38623,haze primary
+train_38628,haze primary
+train_38651,haze primary
+train_38681,agriculture haze primary water
+train_38694,agriculture haze primary road
+train_38720,bare_ground haze
+train_38724,haze primary
+train_38734,haze primary
+train_38739,agriculture haze primary road water
+train_38744,agriculture haze primary road water
+train_38755,haze primary
+train_38758,haze primary
+train_38762,cultivation haze primary water
+train_38769,agriculture haze primary road
+train_38793,agriculture haze primary
+train_38798,haze primary
+train_38863,agriculture cultivation haze primary
+train_38870,haze primary water
+train_38909,haze primary
+train_38984,agriculture haze primary road
+train_38990,haze primary water
+train_39002,agriculture haze primary
+train_39010,haze primary water
+train_39034,haze primary
+train_39078,haze primary water
+train_39087,haze primary
+train_39091,haze primary
+train_39092,agriculture haze primary road
+train_39115,haze primary
+train_39123,agriculture haze primary road
+train_39148,haze primary
+train_39156,haze primary water
+train_39188,agriculture cultivation haze primary water
+train_39216,cultivation haze primary
+train_39233,haze primary
+train_39251,haze primary water
+train_39263,haze primary water
+train_39270,haze primary
+train_39273,agriculture haze primary
+train_39279,haze primary water
+train_39283,haze primary
+train_39286,agriculture haze primary
+train_39332,haze primary
+train_39336,haze primary
+train_39348,agriculture habitation haze primary road
+train_39375,bare_ground haze
+train_39386,haze primary
+train_39388,agriculture cultivation haze primary water
+train_39403,haze primary
+train_39407,haze primary
+train_39408,haze primary
+train_39414,haze primary
+train_39436,haze primary
+train_39442,haze primary
+train_39449,agriculture haze primary
+train_39460,haze primary road water
+train_39486,haze primary
+train_39487,agriculture cultivation haze primary
+train_39502,haze primary
+train_39503,haze primary water
+train_39513,haze primary
+train_39521,agriculture haze primary
+train_39572,agriculture haze primary road
+train_39586,haze primary
+train_39590,haze primary
+train_39607,haze primary
+train_39635,haze primary
+train_39647,agriculture haze primary
+train_39648,haze primary
+train_39666,haze primary
+train_39669,haze primary
+train_39672,haze primary
+train_39676,haze primary water
+train_39705,haze primary
+train_39721,haze primary
+train_39734,haze primary water
+train_39756,agriculture haze primary
+train_39782,haze primary
+train_39786,haze primary
+train_39814,haze primary
+train_39823,haze primary
+train_39847,haze primary
+train_39849,haze primary
+train_39899,haze primary
+train_39919,agriculture haze primary water
+train_39933,haze primary
+train_39942,haze primary
+train_39984,haze primary water
+train_40009,agriculture haze primary road water
+train_40029,haze primary
+train_40060,haze primary
+train_40067,haze primary water
+train_40077,haze primary water
+train_40087,agriculture haze primary
+train_40101,haze primary
+train_40130,haze primary
+train_40150,haze primary road water
+train_40156,agriculture haze primary
+train_40198,haze primary
+train_40216,agriculture haze primary road
+train_40239,agriculture habitation haze primary
+train_40241,haze primary
+train_40271,haze primary
+train_40280,haze primary water
+train_40286,haze primary
+train_40309,haze primary water
+train_40330,haze primary
+train_40340,agriculture cultivation haze primary
+train_40342,haze primary
+train_40351,agriculture haze primary
+train_40359,haze primary
+train_40373,haze primary
+train_40378,haze primary
+train_40379,agriculture haze primary road
+train_40424,haze primary
+train_40440,haze primary
+train_40463,agriculture haze primary
+train_40469,haze primary water
