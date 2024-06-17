@@ -4,3 +4,4 @@ test-jpg
 train-jpg
 .venv
 .DS_Store
+*.pkl
