@@ -4,7 +4,14 @@ Usando dados de satélite para rastrear a pegada humana na floresta amazônica.
 Objetivos:
 1. Desenvolver um programa para calcular o percentual de floresta densa de uma imagem.
     a. Preferencialmente com segmentação de imagens por cores.
-2. Desafio: Readequar o programa para segmentar a imagem nas diferentes categorias listadas na aba "Data" da página do Kaggle.s
+2. Desafio: Readequar o programa para segmentar a imagem nas diferentes categorias listadas na aba "Data" da página do Kaggle.
+
+Data Labels
+1. Primary
+2. Water
+3. Habitation
+4. Agriculture
+5. Road
 
 Data source: [Kaggle - Planet: Understanding the Amazon from Space](https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space/data)
 
