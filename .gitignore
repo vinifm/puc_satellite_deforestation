@@ -1,4 +1,5 @@
-images
+clear_images
+raw_images
 test-jpg
 train-jpg
 .venv
