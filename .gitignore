@@ -1,4 +1,5 @@
 clear_images
+labeled_images
 raw_images
 test-jpg
 train-jpg
