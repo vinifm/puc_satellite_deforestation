@@ -3,5 +3,6 @@ raw_images
 test-jpg
 train-jpg
 .venv
-.DS_Store
 *.pkl
+*.pyc
+.DS_Store

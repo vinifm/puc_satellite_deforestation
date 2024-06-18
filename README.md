@@ -19,6 +19,9 @@ Data source: [Kaggle - Planet: Understanding the Amazon from Space](https://www.
 ## K-Means
 - [X] (Video) [Image Segmentation with K-Means Clustering in Python](https://www.youtube.com/watch?v=X-Y91ddBqaQ)
 
+## Label Studio
+- (Video) [Labeling images for semantic segmentation using Label Studio](https://www.youtube.com/watch?v=UUP_omOSKuc)
+
 ## Segmentação semnântica
 - GSI Technology: [A Beginner’s Guide To Segmentation In Satellite Images: Walking Through Machine Learning Techniques For Image Segmentation And Applying Them To Satellite Imagery](https://gsitechnology.com/beginners-guide-to-segmentation-in-satellite-images/)
 - (Video) [MATLAB:  Semantic Segmentation of Satellite Images](https://www.youtube.com/watch?v=k88RmW7mEig)
