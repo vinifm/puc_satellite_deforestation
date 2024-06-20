@@ -7,3 +7,4 @@ train-jpg
 *.pkl
 *.pyc
 .DS_Store
+images
